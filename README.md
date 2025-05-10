@@ -48,3 +48,18 @@ Clone the repo and start experimenting with Git:
 
 git clone [(https://github.com/your-username/intro-to-github.git)]
 
+
+# 📄 How to Use
+
+-Open the project in your code editor or terminal.
+
+-Follow the step-by-step exercises provided in the files.
+
+-Try out each Git command and observe how version control works.
+
+-Use GitHub to push your changes and explore collaboration.
+
+
+
+
+
