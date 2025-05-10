@@ -60,8 +60,14 @@ git clone [(https://github.com/your-username/intro-to-github.git)]
 -Use GitHub to push your changes and explore collaboration.
 
 
+
 📸 Example--
 
 
+git init
+git add .
+git commit -m "Initial commit"
+git branch feature-login
+git checkout feature-login
 
 
