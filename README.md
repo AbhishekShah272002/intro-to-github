@@ -60,6 +60,8 @@ git clone [(https://github.com/your-username/intro-to-github.git)]
 -Use GitHub to push your changes and explore collaboration.
 
 
+📸 Example--
+
 
 
 
