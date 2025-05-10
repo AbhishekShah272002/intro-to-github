@@ -1,0 +1,51 @@
+# 📝 Exercises & Examples
+
+
+Try these practical exercises to apply what you’ve learned:
+
+
+🔹 1. Initialize a Git Repository
+
+mkdir my-first-repo
+cd my-first-repo
+git init
+
+
+🔹 2. Stage and Commit Changes
+
+echo "# Hello GitHub" > README.md
+git add README.md
+git commit -m "Add README"
+
+
+🔹 3. Create and Switch Branches
+
+git branch feature-about
+git checkout feature-about
+echo "This is the about page." > about.txt
+git add about.txt
+git commit -m "Add about page"
+
+
+🔹 4. Merge Changes into Main
+
+git checkout main
+git merge feature-about
+
+
+🔹 5. Push to GitHub
+
+git remote add origin https://github.com/your-username/intro-to-github.git
+git push -u origin main
+
+
+🔹 6. Open a Pull Request
+
+On GitHub:
+
+-Create a new branch.
+
+-Push your changes.
+
+-Click "Compare & pull request" to review and submit.
+
