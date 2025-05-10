@@ -3,6 +3,7 @@
 
 Welcome! This repository provides a beginner-friendly introduction to Git and GitHub. It's designed to help you understand version control, basic Git commands, and how to collaborate using GitHub.
 
+
 What's Inside
 
 ✅ Basic Git commands
@@ -14,6 +15,7 @@ What's Inside
 ✅ Branching and merging
 
 ✅ Collaboration via pull requests
+
 
 
 # What You'll Learn section:
@@ -41,7 +43,8 @@ Understand how GitHub enables collaborative development through pull requests. Y
 
 Getting Started
 
+
 Clone the repo and start experimenting with Git:
 
-git clone [https://github.com/your-username/intro-to-github.git]
+git clone [(https://github.com/your-username/intro-to-github.git)]
 
