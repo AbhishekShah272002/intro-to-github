@@ -39,4 +39,9 @@ Explore how branching allows you to work on new features or bug fixes without af
 
 Understand how GitHub enables collaborative development through pull requests. You’ll see how to propose changes, review code, discuss improvements with teammates, and merge updates into the main project — all in a structured and trackable way.
 
+Getting Started
+
+Clone the repo and start experimenting with Git:
+
+git clone [https://github.com/your-username/intro-to-github.git]
 
