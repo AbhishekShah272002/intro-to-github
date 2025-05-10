@@ -1,5 +1,6 @@
 # intro-to-github
 
+
 Welcome! This repository provides a beginner-friendly introduction to Git and GitHub. It's designed to help you understand version control, basic Git commands, and how to collaborate using GitHub.
 
 What's Inside
@@ -13,7 +14,9 @@ What's Inside
 
 ✅ Collaboration via pull requests
 
+
 # What You'll Learn section:
+
 
 ✅ Basic Git Commands
 This section introduces the foundational Git commands every developer should know. You’ll learn how to initialize a repository with git init, check the status of your files using git status, stage changes with git add, and record those changes using git commit. These commands are the building blocks of working with Git effectively.
