@@ -76,36 +76,6 @@ git checkout feature-login
 
 
 
-# Online
-
-
-# Microsoft test 
-
-
-
-# On 20 june
-
-
-
-
-
-# 7:30 - 9:00 
-
-
-
-
-
-
-# Azure Ai 
-
-
-
-
-# Be ready
-
-
-
-
 
 
 
