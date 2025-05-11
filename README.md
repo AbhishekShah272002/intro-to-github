@@ -70,6 +70,30 @@ git add .
 
 git commit -m "Initial commit"
 
+
+
+
+
+# Microsoft test on 20 june
+
+
+
+
+# 7:30 - 9:00 
+
+
+
+
+# Azure Ai 
+
+
+
+
+
+
+
+
+
 git branch feature-login
 
 git checkout feature-login
