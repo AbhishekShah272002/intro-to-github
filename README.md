@@ -70,6 +70,9 @@ git add .
 
 git commit -m "Initial commit"
 
+git branch feature-login
+
+git checkout feature-login
 
 
 
@@ -95,14 +98,11 @@ git commit -m "Initial commit"
 
 
 
+# Be ready
 
 
 
 
-
-git branch feature-login
-
-git checkout feature-login
 
 
 
